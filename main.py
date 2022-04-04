@@ -9,7 +9,7 @@ info = """
     
     Are You want to add Students (y/n)
 """
-PATH = "R:/Freelance/Face Recognition/datasets"
+PATH = "/datasets"
 NewEntry = input(info + '\n>> ')
 
 if NewEntry == 'y' :
